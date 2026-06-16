@@ -87,7 +87,7 @@ Transpiler/
 
 **Visual Studio (Windows):**
 
-1. Откройте `Transpiler.slnx` в Visual Studio 2022.
+1. Откройте `Transpiler.slnx` в Visual Studio 2026.
 2. Соберите решение (`Ctrl + Shift + B`).
 3. Запустите полученный исполняемый файл и введите арифметическое выражение.
 
